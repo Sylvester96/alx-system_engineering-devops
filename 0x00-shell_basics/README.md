@@ -1,1 +1,1 @@
-Script that creates a directory in the tmp directory
+Moving file betty from tmp to my-first-directory
