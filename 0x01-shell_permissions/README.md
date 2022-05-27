@@ -1,1 +1,1 @@
-Script that adds execute permission to all subdirectories
+Script that creates a directory called my_dir with permissions 751 in the working directory
