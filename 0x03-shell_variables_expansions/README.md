@@ -30,7 +30,7 @@ Task 12: A script that prints all possible combinations of two letters, except o
 
 Task 13: A script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
 
-Task 14:
+Task 14: A script that converts a number from base 10 to base 16.
 
 Task 15:
 
