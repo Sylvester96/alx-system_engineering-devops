@@ -23,7 +23,8 @@ Task 9: A script that prints the result of POWER divided by DIVIDE, followed by 
 Task 10: A script that displays the result of BREATH to the power LOVE
 BREATH and LOVE are environment variables
 
-Task 11:
+Task 11: A script that converts a number from base 2 to base 10.
+The number in base 2 is stored in the environment variable BINARY
 
 Task 12:
 
