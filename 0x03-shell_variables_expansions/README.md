@@ -28,7 +28,7 @@ The number in base 2 is stored in the environment variable BINARY
 
 Task 12: A script that prints all possible combinations of two letters, except oo.
 
-Task 13:
+Task 13: A script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
 
 Task 14:
 
