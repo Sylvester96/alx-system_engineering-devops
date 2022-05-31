@@ -32,7 +32,7 @@ Task 13: A script that prints a number with two decimal places, followed by a ne
 
 Task 14: A script that converts a number from base 10 to base 16.
 
-Task 15:
+Task 15: A script that encodes and decodes text using the rot13 encryption.
 
 Task 16:
 
