@@ -12,7 +12,7 @@ Task 4: A script that lists environment variables.
 
 Task 5: A script that lists all local variables and evironment varibles and functions.
 
-Task 6: 
+Task 6: A script that creaes a new local variable. Name: BEST Value: School
 
 Task 7:
 
